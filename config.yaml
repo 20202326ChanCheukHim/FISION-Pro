@@ -1,0 +1,3 @@
+mongodb_user : "new2024User" 
+mongodb_password : "new2024Password"  
+auth_source : "DEFAULT" 
